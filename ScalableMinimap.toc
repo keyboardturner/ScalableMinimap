@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: Scalable Minimap
+## Notes: Allows the minimap to be resized.
+## Author: Keyboardturn
+## Version: 0.0.1
+## SavedVariables: ScaleMinimap_DB
+
+ScalableMinimap.lua
